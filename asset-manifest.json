@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fccChallengesound/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/fccChallengesound/static/js/main.ff5c82eb.chunk.js",
+    "main.js.map": "/fccChallengesound/static/js/main.ff5c82eb.chunk.js.map",
+    "runtime-main.js": "/fccChallengesound/static/js/runtime-main.88018df3.js",
+    "runtime-main.js.map": "/fccChallengesound/static/js/runtime-main.88018df3.js.map",
+    "static/css/2.818011ed.chunk.css": "/fccChallengesound/static/css/2.818011ed.chunk.css",
+    "static/js/2.5543b009.chunk.js": "/fccChallengesound/static/js/2.5543b009.chunk.js",
+    "static/js/2.5543b009.chunk.js.map": "/fccChallengesound/static/js/2.5543b009.chunk.js.map",
+    "index.html": "/fccChallengesound/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/fccChallengesound/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/fccChallengesound/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5543b009.chunk.js.LICENSE.txt": "/fccChallengesound/static/js/2.5543b009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88018df3.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5543b009.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.ff5c82eb.chunk.js"
+  ]
+}
